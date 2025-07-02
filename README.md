@@ -4,10 +4,13 @@
 Dataset yang digunakan sama seperti [projek Excel sebelumnya](https://github.com/rafaauroraa/Data-Analisis-Dashboard-Excel). Namun, dalam projek ini, proses pengolahan data dilakukan menggunakan PostgreSQL, sedangkan visualisasinya dibuat dengan Tableau. Tujuan dari projek ini untuk menunjukkan pendekatan eksplorasi data menggunakan tools yang berbeda, yaitu PostgreSQL dan Tableau.
 
 ## Dataset
-- [Data Mentah](https://github.com/rafaauroraa/Data-Analisis-Dashboard-SQL-Tableau/blob/main/Data_mentah.csv)
-- [Data Referensi](https://github.com/rafaauroraa/Data-Analisis-Dashboard-SQL-Tableau/blob/main/Data%20Referensi.sql)
-- Sumber data: Dataset yang disusun untuk keperluan simulasi penjualan minuman
-- Periode waktu: Januari – Desember 2024 (12 bulan)
+[Data Mentah](https://github.com/rafaauroraa/Data-Analisis-Dashboard-SQL-Tableau/blob/main/Data_mentah.csv)
+
+[Data Referensi](https://github.com/rafaauroraa/Data-Analisis-Dashboard-SQL-Tableau/blob/main/Data%20Referensi.sql)
+
+Sumber data: Dataset yang disusun untuk keperluan simulasi penjualan minuman
+
+Periode waktu: Januari – Desember 2024 (12 bulan)
 
 ## Pertanyaan Bisnis 
 - Berapa total pendapatan penjualan selama periode berjalan?
