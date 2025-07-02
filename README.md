@@ -28,7 +28,7 @@ Dataset yang digunakan sama seperti pada projek Excel sebelumnya. Namun, dalam p
 - Dashboard dilengkapi dengan filter berdasarkan bulan, ukuran, dan kategori, sehingga memungkinkan eksplorasi data secara dinamis dan mendalam untuk menjawab pertanyaan bisnis secara efektif.
 
 ## Dashboard
-
+![Cuplikan Dashboard](https://github.com/user-attachments/assets/71a3f911-2003-417e-b8e6-c4d55ad3f915)
 
 ## Ringkasan Dashboard
 - Total Pendapatan: Rp 249.108.000
