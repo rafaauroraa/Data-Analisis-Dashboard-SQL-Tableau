@@ -21,7 +21,7 @@ Dataset yang digunakan sama seperti pada projek Excel sebelumnya. Namun, dalam p
 - Hari apa yang menjadi hari tersibuk dalam satu minggu?
 
 ## Proses Analisis
-- Proses dimulai dengan memasukkan data transaksi (CSV) ke dalam database menggunakan PostgreSQL. [Tabel Referensi Minuman](https://github.com/rafaauroraa/Data-Analisis-Dashboard-SQL-Tableau/blob/main/Data%20Referensi.sql) dibuat secara manual dengan perintah CREATE TABLE dan INSERT, untuk melengkapi informasi tiap produk seperti nama minuman, komposisi, dan kategori. 
+- Proses dimulai dengan memasukkan data transaksi (CSV) ke dalam database menggunakan PostgreSQL. Selain itu [Tabel Referensi Minuman](https://github.com/rafaauroraa/Data-Analisis-Dashboard-SQL-Tableau/blob/main/Data%20Referensi.sql) dibuat secara manual dengan perintah CREATE TABLE dan INSERT, untuk melengkapi informasi tiap produk seperti nama minuman, komposisi, dan kategori. 
 - Setelah seluruh data tersedia, dilakukan pembersihan dan transformasi data melalui [query SQL](https://github.com/rafaauroraa/Data-Analisis-Dashboard-SQL-Tableau/blob/main/Olah%20Data.sql). Beberapa langkah penting meliputi penggabungan data transaksi dan referensi produk, penambahan kolom total harga, serta pembuatan kolom baru untuk hari berdasarkan tanggal transaksi.
 - Data hasil olahan kemudian diekspor dan dimasukkan ke Tableau untuk proses visualisasi. Sebelum divisualisasikan, ditambahkan field baru untuk mengekstrak informasi bulan dari tanggal transaksi, serta dilakukan pengecekan data source agar struktur data sesuai.
 - Setiap visualisasi disusun berdasarkan kebutuhan analisis. Semua grafik kemudian dikumpulkan dalam satu dashboard interaktif.
