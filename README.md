@@ -10,15 +10,15 @@ Dataset yang digunakan sama seperti pada projek Excel sebelumnya. Namun, dalam p
 - Periode waktu: Januari – Desember 2024 (12 bulan)
 
 ## Pertanyaan Bisnis 
-Berapa total pendapatan penjualan selama periode berjalan?
-Berapa total pesanan (order) yang diterima?
-Berapa total minuman yang terjual?
-Apa saja 3 (tiga) produk minuman yang paling laris?
-Bagaimana distribusi jumlah penjualan berdasarkan kategori minuman?
-Bagaimana distribusi penjualan berdasarkan ukuran minuman?
-Bagaimana pendapatan jika dilihat dari kategori dan ukuran?
-Bagaimana tren pendapatan dari waktu ke waktu?
-Hari apa yang menjadi hari tersibuk dalam satu minggu?
+- Berapa total pendapatan penjualan selama periode berjalan?
+- Berapa total pesanan (order) yang diterima?
+- Berapa total minuman yang terjual?
+- Apa saja 3 (tiga) produk minuman yang paling laris?
+- Bagaimana distribusi jumlah penjualan berdasarkan kategori minuman?
+- Bagaimana distribusi penjualan berdasarkan ukuran minuman?
+- Bagaimana pendapatan jika dilihat dari kategori dan ukuran?
+- Bagaimana tren pendapatan dari waktu ke waktu?
+- Hari apa yang menjadi hari tersibuk dalam satu minggu?
 
 ## Proses Analisis
 - Proses dimulai dengan memasukkan data transaksi (CSV) ke dalam database menggunakan PostgreSQL. [Tabel Referensi Minuman](https://github.com/rafaauroraa/Data-Analisis-Dashboard-SQL-Tableau/blob/main/Data%20Referensi.sql) dibuat secara manual dengan perintah CREATE TABLE dan INSERT, untuk melengkapi informasi tiap produk seperti nama minuman, komposisi, dan kategori. 
