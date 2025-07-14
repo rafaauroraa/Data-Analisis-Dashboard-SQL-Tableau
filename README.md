@@ -1,7 +1,7 @@
 # SYUKA-SYUKA | Dashboard Analisis Penjualan Minuman
 
 ## Tujuan 
-Dataset yang digunakan sama seperti [projek Excel sebelumnya](https://github.com/rafaauroraa/Data-Analisis-Dashboard-Excel). Namun pada proyek ini, proses pengolahan data dilakukan menggunakan PostgreSQL, sedangkan visualisasinya dibuat dengan Tableau. Tujuan dari proyek ini untuk menunjukkan proses analisis data menggunakan kombinasi tools yang berbeda, yaitu PostgreSQL dan Tableau.
+Dataset yang digunakan sama seperti [proyek Excel sebelumnya](https://github.com/rafaauroraa/Data-Analisis-Dashboard-Excel). Namun pada proyek ini, proses pengolahan data dilakukan menggunakan PostgreSQL, sedangkan visualisasinya dibuat dengan Tableau. Tujuan dari proyek ini untuk menunjukkan proses analisis data menggunakan kombinasi tools yang berbeda, yaitu PostgreSQL dan Tableau.
 
 ## Dataset
 [Data Mentah](https://github.com/rafaauroraa/Data-Analisis-Dashboard-SQL-Tableau/blob/main/Data_mentah.csv)
